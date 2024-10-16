@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystem", "BookingSystem.csproj", "{BCA6351D-64AA-4C30-9F7B-5EFF449D5612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingSystem", "BookingSystem.csproj", "{BCA6351D-64AA-4C30-9F7B-5EFF449D5612}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystemTests", "..\BookingSystemTests\BookingSystemTests.csproj", "{65934016-82AA-4DCC-9590-612E69C39E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingSystemTests", "..\BookingSystemTests\BookingSystemTests.csproj", "{65934016-82AA-4DCC-9590-612E69C39E7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
